@@ -1,0 +1,25 @@
+   body{
+            background-color:lightblue;
+        }
+      
+        .center{ 
+            background-color:white;
+            text-align:center;
+            border:3px solid black;
+            margin-top :100px;
+            margin-left:400px;
+            margin-bottom :100px;
+            margin-right:400px;
+        }
+        .r1{
+            color:blue;
+            font-size:25px; }
+        .sub{  
+background-color:blue;  
+padding: 7px 40px 7px 40px;  
+color:white;  
+font-weight:bold;  
+margin-left:70px;  
+border-radius:5px;  
+text-align:left;
+}  

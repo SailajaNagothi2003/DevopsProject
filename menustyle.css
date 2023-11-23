@@ -1,0 +1,154 @@
+ .menu{
+        padding:25px 0px 25px 0px;
+    }
+    .sec1{
+        padding:25px 0px 25px 0px;
+        
+        text-align: center;
+        font-size: 35px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:white;
+        background-color: rgb(255, 0, 144);
+    }
+    .mr{
+        padding:0px 100px 0px 100px;
+        display:flex
+    }
+    .mc{
+        box-shadow: 2px 2px 2px #bbb;
+        border:1px solid #bbb;
+        background-color: #fff;
+        margin:10px;
+        padding:10px;
+        flex:1;
+    }
+    .mc h2{
+        background-color: red;
+        color:black;
+        margin:5px;
+        text-align:center;
+        font-family: cursive;
+    }
+    h3{
+        color:blue;
+    }
+   
+    .img{
+        width:150px;
+        height:150px;
+        border-radius:50%;
+        padding:5px;
+        border:2px solid orange;
+    }
+
+    .img1{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;   
+        background: url("b4.jpg") no-repeat center center/cover;
+    }
+    .img2{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("b5.jpg") no-repeat center center/cover;
+    }
+    .img3{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("b6.jpg") no-repeat center center/cover;
+    }
+    .img4{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("b7.jpg") no-repeat center center/cover;
+    }
+    .img5{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("l1.jpg") no-repeat center center/cover;
+    }
+    .img6{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("l3.jpg") no-repeat center center/cover;
+    }
+    .img7{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("l2.jpg") no-repeat center center/cover;
+    }
+    .img8{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("c1.jpg") no-repeat center center/cover;
+    }
+    .img9{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("l4.jpg") no-repeat center center/cover;
+    }
+    .img10{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("c2.jpg") no-repeat center center/cover;
+    }
+    .img11{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("c3.jpg") no-repeat center center/cover;
+    }
+    .img12{
+        width:100%;
+        height:100%;
+        border-radius:50%;
+        object-fit:cover;
+        background: url("c4.jpg") no-repeat center center/cover;
+    }
+    .box{
+      display:flex;
+      flex-direction: column;  
+    align-items: center;
+    text-align: center;
+    }
+    .btn{
+    margin-top:2px;
+    border: 3px solid white;
+    border-radius:15px;
+    background-color:yellow;
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: red;
+}
+i{
+    font-size: 60px;
+    cursor: pointer;
+    position: absolute;
+   right:5%;
+   top:13%;
+    transform: translate(-50%, -50%);
+}
